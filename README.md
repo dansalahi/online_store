@@ -1,2 +1,1 @@
-# fullstack_store
-A fullstack online store
+# Fulstack Online Store
