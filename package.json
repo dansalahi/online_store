@@ -1,0 +1,25 @@
+{
+  "name": "online_store",
+  "version": "1.0.0",
+  "description": "an online store by nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansalahi/online_store.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "ejs",
+    "bootstrap"
+  ],
+  "author": "dan salahi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dansalahi/online_store/issues"
+  },
+  "homepage": "https://github.com/dansalahi/online_store#readme"
+}
