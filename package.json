@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "an online store by nodejs",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon app.js"
   },
