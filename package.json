@@ -2,7 +2,7 @@
   "name": "online_store",
   "version": "1.0.0",
   "description": "an online store by nodejs",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon app.js"
   },
